@@ -1,7 +1,9 @@
 # **ios15-swift5-ui-ads-promote**
 Base on ios15,swift5
 
-**Demo image:**
+Support Charts,PieChart,ProgressBars output.
+
+## Demo image:
 
 ![demo-00](https://github.com/kennychou566/ios15-swift5-ui-ads-promote/blob/main/demo/00.png)
 ![demo-01](https://github.com/kennychou566/ios15-swift5-ui-ads-promote/blob/main/demo/01.png)
